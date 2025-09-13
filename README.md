@@ -30,7 +30,7 @@ designed for developers by Xiaoying Riley.
 
 ### Added
 
-- Google Analytics
+- ~~Google Analytics~~ Removed because internal template was removed from Hugo.
 
 
 
